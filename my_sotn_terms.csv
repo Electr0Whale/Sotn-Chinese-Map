@@ -1,0 +1,746 @@
+source,target,tgt_lng
+Soul of Bat,﻿蝙蝠之魂,zh-CN
+ソウルオブバット,﻿蝙蝠之魂,zh-CN
+Fire of Bat,蝙蝠之魂：火焰,zh-CN
+ファイアオブバット,蝙蝠之魂：火焰,zh-CN
+Echo of Bat,蝙蝠之魂：声波,zh-CN
+エコーオブバット,蝙蝠之魂：声波,zh-CN
+Force of Echo,蝙蝠之魂：超声波,zh-CN
+クレイジーエコー,蝙蝠之魂：超声波,zh-CN
+Soul of Wolf,狼之魂,zh-CN
+ソウルオブウルフ,狼之魂,zh-CN
+Power of Wolf,狼之魂：速度,zh-CN
+パワーオブウルフ,狼之魂：速度,zh-CN
+Skill of Wolf,狼之魂：必杀,zh-CN
+スキルオブウルフ,狼之魂：必杀,zh-CN
+Form of Mist,雾之魂,zh-CN
+ミスト,雾之魂,zh-CN
+Power of Mist,雾之魂：力量,zh-CN
+パワーオブミスト,雾之魂：力量,zh-CN
+Gas Cloud,雾之魂：毒雾,zh-CN
+ガスクラウド,雾之魂：毒雾,zh-CN
+Cube of Zoe,神奇的魔方,zh-CN
+マテライズキューブ,神奇的魔方,zh-CN
+Spirit Orb,魂之水晶,zh-CN
+魂のオーブ,魂之水晶,zh-CN
+Gravity Boots,浮身靴,zh-CN
+浮身のブーツ,浮身靴,zh-CN
+Leap Stone,飞翔石,zh-CN
+飛翔石,飞翔石,zh-CN
+Holy Symbol,圣洁之像,zh-CN
+ホーリーシンボル,圣洁之像,zh-CN
+Fairie Scroll,妖精之书,zh-CN
+妖精の書,妖精之书,zh-CN
+Jewel of Open,开启封印的宝石,zh-CN
+アンロックジュエル,开启封印的宝石,zh-CN
+Merman Statue,人鱼之像,zh-CN
+人魚の像,人鱼之像,zh-CN
+Bat Card,蝙蝠之素,zh-CN
+コウモリの素,蝙蝠之素,zh-CN
+Ghost Card,幽灵之素,zh-CN
+ゴーストの素,幽灵之素,zh-CN
+Faerie Card,妖精之素,zh-CN
+妖精の素,妖精之素,zh-CN
+Demon Card,子恶魔之素,zh-CN
+子悪魔の素,子恶魔之素,zh-CN
+Sword Card,剑魔之素,zh-CN
+剣魔の素,剑魔之素,zh-CN
+Fairy Card,半妖精之素,zh-CN
+半妖精の素,半妖精之素,zh-CN
+N Demon Card,鼻恶魔之素,zh-CN
+鼻悪魔の素,鼻恶魔之素,zh-CN
+Heart of Vlad,心脏,zh-CN
+心臓,心脏,zh-CN
+Tooth of Vlad,爪,zh-CN
+爪,爪,zh-CN
+Rib of Vlad,肋骨,zh-CN
+あばら骨,肋骨,zh-CN
+Ring of Vlad,戒指,zh-CN
+指輪,戒指,zh-CN
+Eye of Vlad,眼珠,zh-CN
+目玉,眼珠,zh-CN
+Potion,生命药水,zh-CN
+ポーション,生命药水,zh-CN
+High Potion,高级生命药水,zh-CN
+ハイポーション,高级生命药水,zh-CN
+Elixir,特级生命药水,zh-CN
+エクスポーション,特级生命药水,zh-CN
+Manna Prism,魔晶石,zh-CN
+マナプリズム,魔晶石,zh-CN
+Heart Refresh,爱心恢复,zh-CN
+ハートリペア,爱心恢复,zh-CN
+Antivenom,解毒剂,zh-CN
+セィラム,解毒剂,zh-CN
+Uncurse,圣水,zh-CN
+アンカース,圣水,zh-CN
+Hammer,锤子,zh-CN
+ハンマー,锤子,zh-CN
+Life Apple,生命灵药,zh-CN
+せいめいのれいやく,生命灵药,zh-CN
+Attack Potion,攻击药剂,zh-CN
+アタックポーション,攻击药剂,zh-CN
+Shield Potion,防御药剂,zh-CN
+シールドポーション,防御药剂,zh-CN
+Str Potion,力量药剂,zh-CN
+ちからのくすり,力量药剂,zh-CN
+Smart Potion,智力药剂,zh-CN
+ちりょくのくすり,智力药剂,zh-CN
+Luck Potion,幸运药剂,zh-CN
+ラッキードラッグ,幸运药剂,zh-CN
+Resist Fire,火焰抗性,zh-CN
+レジストファイア,火焰抗性,zh-CN
+Resist Ice,冰冻抗性,zh-CN
+レジストアイス,冰冻抗性,zh-CN
+Resist Thunder,雷电抗性,zh-CN
+レジストサンダー,雷电抗性,zh-CN
+Resist Dark,黑暗抗性,zh-CN
+レジストダーク,黑暗抗性,zh-CN
+Resist Holy,神圣抗性,zh-CN
+レジストホーリー,神圣抗性,zh-CN
+Resist Stone,石化抗性,zh-CN
+レジストストーン,石化抗性,zh-CN
+Library Card,神奇门票,zh-CN
+マジカルチケット,神奇门票,zh-CN
+Basilard,巴塞尔,zh-CN
+バーゼラルド,巴塞尔,zh-CN
+Stone Sword,石剑,zh-CN
+ミリカンの石刀,石剑,zh-CN
+Short Sword,短剑,zh-CN
+ショートソード,短剑,zh-CN
+Holbein Dagger,速技短刀,zh-CN
+はやわざのたんとう,速技短刀,zh-CN
+Rapier,剑杆,zh-CN
+レイピア,剑杆,zh-CN
+Jewel Sword,宝石剑,zh-CN
+ジュエルソード,宝石剑,zh-CN
+Were Bane,兽人克星,zh-CN
+ウェアバスター,兽人克星,zh-CN
+Shotel,旅馆曲剑,zh-CN
+ショテル,旅馆曲剑,zh-CN
+Combat Knife,战斗刀,zh-CN
+コンバットナイフ,战斗刀,zh-CN
+Tyrfing,斩裂剑,zh-CN
+ティルフィング,斩裂剑,zh-CN
+Alucart Sword,阿鲁卡托之剑,zh-CN
+アルカートソード,阿鲁卡托之剑,zh-CN
+Gladius,古罗马短剑,zh-CN
+グラディウス,古罗马短剑,zh-CN
+Scimitar,弯刀,zh-CN
+シミター,弯刀,zh-CN
+Cutlass,海盗剑,zh-CN
+カトラス,海盗剑,zh-CN
+Saber,佩剑,zh-CN
+セイバー,佩剑,zh-CN
+Falchion,偃月刀,zh-CN
+ファルシオン,偃月刀,zh-CN
+Broadsword,德式斗剑,zh-CN
+カッツバルゲル,德式斗剑,zh-CN
+Bekatowa,贝嘉托瓦短剑,zh-CN
+ベカトワ,贝嘉托瓦短剑,zh-CN
+Damascus Sword,大马士革钢剑,zh-CN
+ダマスカスソード,大马士革钢剑,zh-CN
+Bastard Sword,巨剑,zh-CN
+バスタードソード,巨剑,zh-CN
+Hunter Sword,嘉德普拉提,zh-CN
+ジャドプラーテ,嘉德普拉提,zh-CN
+Talwar,印度弯刀,zh-CN
+ターワル,印度弯刀,zh-CN
+Sword of Hador,赫尔格之剑,zh-CN
+ヘルゲの剣,赫尔格之剑,zh-CN
+Mormegil,神圣巨剑,zh-CN
+ホーリーバスター,神圣巨剑,zh-CN
+Gurthang,战乱之剑,zh-CN
+ダインスレイフ,战乱之剑,zh-CN
+Vorpal Blade,音速剑,zh-CN
+ソニックブレード,音速剑,zh-CN
+Firebrand,阿古尼炎剑,zh-CN
+アグニの炎剣,阿古尼炎剑,zh-CN
+Icebrand,拉哈伯冰剑,zh-CN
+ラハブの氷剣,拉哈伯冰剑,zh-CN
+Thunderbrand,因陀罗雷剑,zh-CN
+インドラの雷剣,因陀罗雷剑,zh-CN
+Luminus,兽咬剑,zh-CN
+オルクリスト,兽咬剑,zh-CN
+Holy Sword,神圣剑,zh-CN
+ホーリーソード,神圣剑,zh-CN
+Harper,佩耳修斯之剑,zh-CN
+ハルパー,佩耳修斯之剑,zh-CN
+Gram,名刀古拉姆,zh-CN
+名刀グラム,名刀古拉姆,zh-CN
+Terminus Est,赤原猎犬,zh-CN
+フルンチング,赤原猎犬,zh-CN
+Marsil,炎之魔剑,zh-CN
+レーヴァテイン,炎之魔剑,zh-CN
+Dark Blade,格兰瑞,zh-CN
+グラムドリング,格兰瑞,zh-CN
+Crissaegrim,真空刃,zh-CN
+ヴァルマンウェ,真空刃,zh-CN
+Mourneblade,哀伤之剑,zh-CN
+モーンブレード,哀伤之剑,zh-CN
+Mablung Sword,雷姆利亚之剑,zh-CN
+レムリアソード,雷姆利亚之剑,zh-CN
+Alucard Sword,阿鲁卡多之剑,zh-CN
+アルカードソード,阿鲁卡多之剑,zh-CN
+Badelaire,巴尔扎耶偃月刀,zh-CN
+バルザイのえん月刀,巴尔扎耶偃月刀,zh-CN
+Sword Familiar,使魔之剑,zh-CN
+つかい魔の剣,使魔之剑,zh-CN
+Namakura,钝刀,zh-CN
+ナマクラ,钝刀,zh-CN
+Red Rust,赤锈,zh-CN
+アカサビ,赤锈,zh-CN
+Takemitsu,竹光,zh-CN
+タケミツ,竹光,zh-CN
+Nunchaku,东方棍,zh-CN
+トンファー,东方棍,zh-CN
+Claymore,大剑,zh-CN
+クレイモア,大剑,zh-CN
+Sword of Dawn,晓之剑,zh-CN
+あかつきの剣,晓之剑,zh-CN
+Flamberge,焰形大剑,zh-CN
+フランベルジェ,焰形大剑,zh-CN
+Katana,太刀,zh-CN
+カタナ,太刀,zh-CN
+Zwei Hander,双手大剑,zh-CN
+ツヴァイハンダー,双手大剑,zh-CN
+Estoc,双手刺剑,zh-CN
+エストック,双手刺剑,zh-CN
+Obsidian Sword,黑曜石之剑,zh-CN
+こくよう石の剣,黑曜石之剑,zh-CN
+Osafune Katana,备前长船,zh-CN
+びぜんおさふね,备前长船,zh-CN
+Yasutsuna,安纲,zh-CN
+やすつな,安纲,zh-CN
+Great Sword,巨型大剑,zh-CN
+グレートソード,巨型大剑,zh-CN
+Masamune,正宗,zh-CN
+まさむね,正宗,zh-CN
+Muramasa,妖刀村正,zh-CN
+ようとうむらまさ,妖刀村正,zh-CN
+Chakram,脉轮之刃,zh-CN
+チャクラム,脉轮之刃,zh-CN
+Heaven Sword,天堂之剑,zh-CN
+ヘブンズソード,天堂之剑,zh-CN
+Rune Sword,天堂符文,zh-CN
+ヘブンズルーン,天堂符文,zh-CN
+Mace,狼牙棒,zh-CN
+メイス,狼牙棒,zh-CN
+Morningstar,朝星棒,zh-CN
+モーニングスター,朝星棒,zh-CN
+Shield Rod,盾形手杖,zh-CN
+シールドロッド,盾形手杖,zh-CN
+Holy Rod,神圣手杖,zh-CN
+ホーリーロッド,神圣手杖,zh-CN
+Star Flail,流星锤,zh-CN
+スターフレイル,流星锤,zh-CN
+Moon Rod,月之魔杖,zh-CN
+ムーンロッド,月之魔杖,zh-CN
+Knuckle Duster,拳套,zh-CN
+ナックル,拳套,zh-CN
+Blue Knuckles,蓝宝石拳套,zh-CN
+ブルーナックル,蓝宝石拳套,zh-CN
+Jewel Knuckles,钻石拳套,zh-CN
+ダイアナックル,钻石拳套,zh-CN
+Iron Fist,凯撒拳套,zh-CN
+カイザーナックル,凯撒拳套,zh-CN
+Fist of Tulkas,奥力哈尔钢拳套,zh-CN
+オリハルコン,奥力哈尔钢拳套,zh-CN
+Alucart Shield,阿鲁卡托之盾,zh-CN
+アルカートシールド,阿鲁卡托之盾,zh-CN
+Leather Shield,皮革盾,zh-CN
+レザーシールド,皮革盾,zh-CN
+Medusa Shield,美杜莎之盾,zh-CN
+メディウサの盾,美杜莎之盾,zh-CN
+Iron Shield,钢铁盾,zh-CN
+アイアンシールド,钢铁盾,zh-CN
+Knight Shield,骑士盾,zh-CN
+ナイトシールド,骑士盾,zh-CN
+Axe Lord Shield,斧骑士之盾,zh-CN
+アックスアーマーの盾,斧骑士之盾,zh-CN
+Dark Shield,黑暗盾,zh-CN
+ダークシールド,黑暗盾,zh-CN
+Shaman Shield,谢尔曼之盾,zh-CN
+シャーマンの盾,谢尔曼之盾,zh-CN
+Herald Shield,纹章盾,zh-CN
+もんしょうの盾,纹章盾,zh-CN
+Fire Shield,火焰盾,zh-CN
+フレイムシールド,火焰盾,zh-CN
+Skull Shield,骷髅盾,zh-CN
+ドクロの盾,骷髅盾,zh-CN
+Goddess Shield,女神之盾,zh-CN
+めがみの盾,女神之盾,zh-CN
+Alucard Shield,阿鲁卡多之盾,zh-CN
+アルカードシールド,阿鲁卡多之盾,zh-CN
+Circlet,圆环,zh-CN
+サークレット,圆环,zh-CN
+Gold Circlet,金圆环,zh-CN
+ぎんのサークレット,金圆环,zh-CN
+Coral Circlet,珊瑚圆环,zh-CN
+さんごのサークレット,珊瑚圆环,zh-CN
+Cat-Eye Circlet,猫眼石圆环,zh-CN
+ねこめ石のサークレット,猫眼石圆环,zh-CN
+Ruby Circlet,红宝石圆环,zh-CN
+こう玉石のサークレット,红宝石圆环,zh-CN
+Opal Circlet,蓝宝石圆环,zh-CN
+せい玉石のサークレット,蓝宝石圆环,zh-CN
+Beryl Circlet,绿宝石圆环,zh-CN
+りょくちゅう石のサークレット,绿宝石圆环,zh-CN
+Topaz Circlet,黄宝石圆环,zh-CN
+おう玉石のサークレット,黄宝石圆环,zh-CN
+Silver Crown,白银皇冠,zh-CN
+シルバーティアラ,白银皇冠,zh-CN
+Sunglasses,太阳镜,zh-CN
+メガネ,太阳镜,zh-CN
+Felt Hat,毛毡帽,zh-CN
+フェルトのぼうし,毛毡帽,zh-CN
+Velvet Hat,天鹅绒帽,zh-CN
+ビロードのぼうし,天鹅绒帽,zh-CN
+Goggles,护目镜,zh-CN
+ゴーグル,护目镜,zh-CN
+Holy Glasses,神圣眼镜,zh-CN
+聖なるめがね,神圣眼镜,zh-CN
+Leather Hat,皮革帽,zh-CN
+かわのぼうし,皮革帽,zh-CN
+Ballroom Mask,舞会面具,zh-CN
+ダンスのマスク,舞会面具,zh-CN
+Bandanna,头巾,zh-CN
+バンダナ,头巾,zh-CN
+Stone Mask,石之面具,zh-CN
+石かめん,石之面具,zh-CN
+Steel Helm,钢盔,zh-CN
+たび人ぼう,钢盔,zh-CN
+Dragon Helm,龙盔,zh-CN
+エギルのかぶと,龙盔,zh-CN
+Wizard Hat,巫师帽,zh-CN
+つばひろのたび人ぼう,巫师帽,zh-CN
+Cloth Tunic,布衣,zh-CN
+ぬののふく,布衣,zh-CN
+Hide Cuirass,皮革胸甲,zh-CN
+かわのむねあて,皮革胸甲,zh-CN
+Alucart Mail,阿鲁卡托胸甲,zh-CN
+アルカートメイル,阿鲁卡托胸甲,zh-CN
+Bronze Cuirass,铜制胸甲,zh-CN
+どうのむねあて,铜制胸甲,zh-CN
+Mirror Cuirass,镜子胸甲,zh-CN
+ミラーキュイラス,镜子胸甲,zh-CN
+Iron Cuirass,铁制胸甲,zh-CN
+てつのむねあて,铁制胸甲,zh-CN
+Healing Mail,治愈胸甲,zh-CN
+ヒーリングメール,治愈胸甲,zh-CN
+Fire Mail,炎之胸甲,zh-CN
+炎のむねあて,炎之胸甲,zh-CN
+Steel Cuirass,钢制胸甲,zh-CN
+はがねのむねあて,钢制胸甲,zh-CN
+Silver Plate,白银胸甲,zh-CN
+シルバーチェスト,白银胸甲,zh-CN
+Gold Plate,黄金胸甲,zh-CN
+ゴールドチェスト,黄金胸甲,zh-CN
+Ice Mail,冰之胸甲,zh-CN
+氷のむねあて,冰之胸甲,zh-CN
+Lightning Mail,雷之胸甲,zh-CN
+雷のむねあて,雷之胸甲,zh-CN
+Dark Armor,邪恶胸甲,zh-CN
+邪なむねあて,邪恶胸甲,zh-CN
+Platinum Mail,白金胸甲,zh-CN
+プラチナチェスト,白金胸甲,zh-CN
+Holy Mail,神圣胸甲,zh-CN
+聖なるむねあて,神圣胸甲,zh-CN
+Spike Breaker,尖钉破坏者,zh-CN
+スパイクブレイカ,尖钉破坏者,zh-CN
+Brilliant Mail,光之胸甲,zh-CN
+光のむねあて,光之胸甲,zh-CN
+Fury Plate,愤怒胸甲,zh-CN
+いかりのむねあて,愤怒胸甲,zh-CN
+Dracula Tunic,德古拉之服,zh-CN
+ドラキュラのふく,德古拉之服,zh-CN
+Diamond Plate,钻石胸甲,zh-CN
+ダイアブレスト,钻石胸甲,zh-CN
+Mojo Mail,魔力胸甲,zh-CN
+やみのむねあて,魔力胸甲,zh-CN
+Axe Lord Armor,斧骑士胸甲,zh-CN
+アックスアーマーのよろい,斧骑士胸甲,zh-CN
+Alucard Mail,阿鲁卡多胸甲,zh-CN
+アルカードメイル,阿鲁卡多胸甲,zh-CN
+God's Garb,神之胸甲,zh-CN
+ガーブオブゴッド,神之胸甲,zh-CN
+Walk Armor,步行大师,zh-CN
+ウォークマスター,步行大师,zh-CN
+Cloth Cape,布制披风,zh-CN
+ぬののマント,布制披风,zh-CN
+Reverse Cloak,双面披风,zh-CN
+リバーシブルマント,双面披风,zh-CN
+Blood Cloak,染血披风,zh-CN
+血ぞめのマント,染血披风,zh-CN
+Elven Cloak,妖精长袍,zh-CN
+エルフのローブ,妖精长袍,zh-CN
+Crystal Cloak,隐身披风,zh-CN
+インビシブル,隐身披风,zh-CN
+Royal Cloak,皇家披风,zh-CN
+ブルーマント,皇家披风,zh-CN
+Joseph's Cloak,约瑟夫披风,zh-CN
+オーダーメイド,约瑟夫披风,zh-CN
+Twilight Cloak,漆黑披风,zh-CN
+しっこくのマント,漆黑披风,zh-CN
+King's Stone,国王之石,zh-CN
+キングストーン,国王之石,zh-CN
+Covenant Stone,力量腰带,zh-CN
+メギンギョルズ,力量腰带,zh-CN
+Ring of Ares,阿瑞斯之戒,zh-CN
+ラウリンの指輪,阿瑞斯之戒,zh-CN
+Gauntlet,护手,zh-CN
+ガントレット,护手,zh-CN
+Necklace of J,J的项链,zh-CN
+ネックレス,J的项链,zh-CN
+Nauglamir,布里希嘉曼项链,zh-CN
+ブリーシンガメン,布里希嘉曼项链,zh-CN
+Medal,勋章,zh-CN
+メダル,勋章,zh-CN
+Lapus Lazuli,青金石,zh-CN
+ラピス・ラズリ,青金石,zh-CN
+Sunstone,辉日之石,zh-CN
+サンストーン,辉日之石,zh-CN
+Moonstone,夜月之石,zh-CN
+ムーンストーン,夜月之石,zh-CN
+Ring of Pales,珍珠戒指,zh-CN
+パールの指輪,珍珠戒指,zh-CN
+Ring of Feanor,大师戒指,zh-CN
+マスターリング,大师戒指,zh-CN
+Ring of Varda,骷髅戒指,zh-CN
+どくろの指輪,骷髅戒指,zh-CN
+Ring of Arcana,至尊之戒,zh-CN
+レアリング,至尊之戒,zh-CN
+Duplicator,复制器,zh-CN
+デュプリケーター,复制器,zh-CN
+Ankh of Life,生命十字章,zh-CN
+しゅくふくのアンク,生命十字章,zh-CN
+Bloodstone,鲜血之石,zh-CN
+ブラッドストーン,鲜血之石,zh-CN
+Mystic Pendant,神秘吊坠,zh-CN
+ペンダント,神秘吊坠,zh-CN
+Heart Broach,心型胸针,zh-CN
+ハートのブローチ,心型胸针,zh-CN
+Staurolite,十字石,zh-CN
+STAUROLITE,十字石,zh-CN
+Talisman,护身符,zh-CN
+タリスマン,护身符,zh-CN
+Gold Ring,金之戒指,zh-CN
+きんの指輪,金之戒指,zh-CN
+Silver Ring,银之戒指,zh-CN
+ぎんの指輪,银之戒指,zh-CN
+Secret Boots,秘密长靴,zh-CN
+シークレットブーツ,秘密长靴,zh-CN
+Zircon,锆石,zh-CN
+ジルコン,锆石,zh-CN
+Aquamarine,海蓝宝石,zh-CN
+アクアマリン,海蓝宝石,zh-CN
+Turquoise,绿松石,zh-CN
+ターコイズ,绿松石,zh-CN
+Onyx,玛瑙石,zh-CN
+オニキス,玛瑙石,zh-CN
+Garnet,石榴石,zh-CN
+ガーネット,石榴石,zh-CN
+Opal,猫眼石,zh-CN
+オパール,猫眼石,zh-CN
+Diamond,钻石,zh-CN
+ダイアモンド,钻石,zh-CN
+Dracula,德古拉,zh-CN
+ドラキュラ,德古拉,zh-CN
+Blood Skeleton,血骷髅,zh-CN
+レッドスケルトン,血骷髅,zh-CN
+Stone Skull,石头骷髅,zh-CN
+スピンヘッド,石头骷髅,zh-CN
+Zombie,僵尸,zh-CN
+ゾンビ,僵尸,zh-CN
+Bat,蝙蝠,zh-CN
+バット,蝙蝠,zh-CN
+Warg,座狼,zh-CN
+アンフアゥグリア,座狼,zh-CN
+Skeleton,骷髅,zh-CN
+スケルトン,骷髅,zh-CN
+Merman,鱼人,zh-CN
+はんぎょじん,鱼人,zh-CN
+Spittle Bone,唾沫骨头,zh-CN
+アルティバティラエ,唾沫骨头,zh-CN
+Bone Scimitar,弯刀骷髅,zh-CN
+スケルトンソルジャー,弯刀骷髅,zh-CN
+Merman,火鱼人,zh-CN
+はんぎょじん,火鱼人,zh-CN
+Axe Knight,绿斧骑士,zh-CN
+アックスアーマー,绿斧骑士,zh-CN
+Slinger,肋骨骷髅,zh-CN
+スケルトン・リブ,肋骨骷髅,zh-CN
+Bloody Zombie,血腥僵尸,zh-CN
+ブラッディーゾンビ,血腥僵尸,zh-CN
+Thornweed,刺槐,zh-CN
+ウネ,刺槐,zh-CN
+Ouija Table,占卜桌,zh-CN
+ターンネートテーブル,占卜桌,zh-CN
+Skelerang,回旋镖骷髅,zh-CN
+ブーメランスケルトン,回旋镖骷髅,zh-CN
+Gaibon,喷火飞魔,zh-CN
+ギャイボン,喷火飞魔,zh-CN
+Ghost,鬼魂,zh-CN
+ゴースト,鬼魂,zh-CN
+Slogra,长矛恶魔,zh-CN
+ベリガン,长矛恶魔,zh-CN
+Marionette,木偶,zh-CN
+マリオネット,木偶,zh-CN
+Diplocephalus,双头怪,zh-CN
+アンフィスバエナ,双头怪,zh-CN
+Flea Man,跳蚤人,zh-CN
+のみ男,跳蚤人,zh-CN
+Bone Musket,火枪骷髅,zh-CN
+スケルトン・ガンマン,火枪骷髅,zh-CN
+Blade Soldier,刀刃骷髅,zh-CN
+ブレイズ・ノーヴィス,刀刃骷髅,zh-CN
+Plate Lord,铁球领主,zh-CN
+ヘビーアーマー,铁球领主,zh-CN
+Medusa Head,黄美杜莎头,zh-CN
+メディウサヘッド,黄美杜莎头,zh-CN
+Stone Rose,石玫瑰,zh-CN
+しょくじんばな,石玫瑰,zh-CN
+Axe Knight,蓝斧骑士,zh-CN
+アックスアーマー,蓝斧骑士,zh-CN
+Ctulhu,克苏鲁,zh-CN
+デビル,克苏鲁,zh-CN
+Bone Archer,弓箭骷髅,zh-CN
+アーチャースケルトン,弓箭骷髅,zh-CN
+Spear Guard,矛卫士,zh-CN
+アーマーナイト,矛卫士,zh-CN
+Scylla Wyrm,锡拉巨龙,zh-CN
+スキュラテイル,锡拉巨龙,zh-CN
+Skeleton Ape,炸药桶骷髅,zh-CN
+スケルトンエイブ,炸药桶骷髅,zh-CN
+Doppleganger10,分身Lv10,zh-CN
+ドッペルゲンガーＬＶ１０,分身Lv10,zh-CN
+Phantom Skull,幻影骷髅,zh-CN
+フライングスカル,幻影骷髅,zh-CN
+Winged Guard,翼卫骷髅,zh-CN
+フライングスケルトン,翼卫骷髅,zh-CN
+Spellbook,书怪,zh-CN
+じゅほうてん,书怪,zh-CN
+Owl,猫头鹰,zh-CN
+ふくろう,猫头鹰,zh-CN
+Bone Pillar,骨柱,zh-CN
+ほねばしら,骨柱,zh-CN
+Sword Lord,剑士领主,zh-CN
+ヴィクトリーアーマー,剑士领主,zh-CN
+Ectoplasm,恶灵,zh-CN
+エクトプラズム,恶灵,zh-CN
+Toad,蟾蜍,zh-CN
+トード,蟾蜍,zh-CN
+Armor Lord,盔甲领主,zh-CN
+グレートアーマー,盔甲领主,zh-CN
+Corner Guard,角卫士,zh-CN
+スラントガーダー,角卫士,zh-CN
+Dhuron,无头骷髅,zh-CN
+デュラハンスケルトン,无头骷髅,zh-CN
+Frog,青蛙,zh-CN
+フロッグ,青蛙,zh-CN
+Frozen Shade,冰冻阴影,zh-CN
+フローズンシェイド,冰冻阴影,zh-CN
+Skull Lord,骷髅王,zh-CN
+だいぼうれい,骷髅王,zh-CN
+Magic Tome,魔法书,zh-CN
+ぶぐじてん,魔法书,zh-CN
+Flail Guard,铁链骷髅,zh-CN
+スケルトンモーニングスター,铁链骷髅,zh-CN
+Flea Rider,跳蚤骑士,zh-CN
+セムラー,跳蚤骑士,zh-CN
+Black Crow,黑乌鸦,zh-CN
+ブラッククロウ,黑乌鸦,zh-CN
+Blue Raven,蓝乌鸦,zh-CN
+ブルークロウ,蓝乌鸦,zh-CN
+Spectral Sword,幽光剑Lv13,zh-CN
+ルーラーソード,幽光剑Lv13,zh-CN
+Corpseweed,尸草,zh-CN
+じんめんそう,尸草,zh-CN
+Scylla,锡拉,zh-CN
+スキュラ,锡拉,zh-CN
+Bone Halberd,战戟骷髅,zh-CN
+スケルトンスピア,战戟骷髅,zh-CN
+Vandal Sword,破坏剑,zh-CN
+アラストール,破坏剑,zh-CN
+Owl Knight,猫头鹰骑士,zh-CN
+オウルアーマー,猫头鹰骑士,zh-CN
+Hunting Girl,狩猎女,zh-CN
+ネメシス,狩猎女,zh-CN
+Mudman,泥人,zh-CN
+マッドマン,泥人,zh-CN
+Spectral Sword,幽光剑Lv15,zh-CN
+ルーラーソードＬｖ２,幽光剑Lv15,zh-CN
+Flea Armor,跳蚤盔甲,zh-CN
+アーマードのみ男,跳蚤盔甲,zh-CN
+Slime,粘液怪,zh-CN
+スライム,粘液怪,zh-CN
+Paranthropus,巨形骷髅,zh-CN
+ビッグ･がいこつ,巨形骷髅,zh-CN
+Hippogryph,角鹰兽,zh-CN
+ヒポグリフ,角鹰兽,zh-CN
+Blade Master,刀剑大师,zh-CN
+スケルトンブレイズ,刀剑大师,zh-CN
+Wereskeleton,战豹骷髅,zh-CN
+ワーパンサースケルトン,战豹骷髅,zh-CN
+Werewolf,蓝狼人,zh-CN
+ウェアウルフ,蓝狼人,zh-CN
+Grave Keeper,守墓人,zh-CN
+グレイブ・キーパー,守墓人,zh-CN
+Harpy,鹰身人,zh-CN
+ハルピュイアイ,鹰身人,zh-CN
+Minotaurus,黄牛头怪,zh-CN
+ミノタウロス,黄牛头怪,zh-CN
+Gremlin,哥布林,zh-CN
+ユコバック,哥布林,zh-CN
+Valhalla Knight,死亡骑士,zh-CN
+デッドトルーパー,死亡骑士,zh-CN
+Bone Ark,骨舟,zh-CN
+こうきどうほねばしら,骨舟,zh-CN
+Salem Witch,塞勒姆女巫,zh-CN
+アリオルムナス,塞勒姆女巫,zh-CN
+Lossoth,洛索斯,zh-CN
+ビフロン,洛索斯,zh-CN
+Fishhead,鱼头柱,zh-CN
+フィッシュヘッド,鱼头柱,zh-CN
+Cloaked Knight,披风骑士,zh-CN
+フライングアーマー,披风骑士,zh-CN
+Lesser Demon,小恶魔,zh-CN
+レッサーデーモン,小恶魔,zh-CN
+Gurkha,廓尔喀巨人,zh-CN
+グルカ・マスター,廓尔喀巨人,zh-CN
+Hammer,大锤巨人,zh-CN
+ハンマーシェイカー,大锤巨人,zh-CN
+Blade,刀剑巨人,zh-CN
+レッドスマッシャー,刀剑巨人,zh-CN
+Large Slime,大史莱姆,zh-CN
+スライム・ラージ,大史莱姆,zh-CN
+Discus Lord,圆盘领主,zh-CN
+ディスクアーマー,圆盘领主,zh-CN
+Karasuman,乌鸦魔王,zh-CN
+マルファス,乌鸦魔王,zh-CN
+Hellfire Beast,地狱火兽,zh-CN
+アムドゥシアス,地狱火兽,zh-CN
+Cerberos,地狱犬,zh-CN
+ケルベロス,地狱犬,zh-CN
+Venus Weed,晨星草,zh-CN
+アルラ・ウネ,晨星草,zh-CN
+Olrox,奥洛克,zh-CN
+オルロック,奥洛克,zh-CN
+Killer Fish,食人鱼,zh-CN
+キラーフィッシュ,食人鱼,zh-CN
+Tombstone,墓碑,zh-CN
+グレイブ,墓碑,zh-CN
+Succubus,魅魔,zh-CN
+サキュバス,魅魔,zh-CN
+Scarecrow,稻草人,zh-CN
+スケアクロウ,稻草人,zh-CN
+Lion,狮子怪,zh-CN
+ライオン,狮子怪,zh-CN
+Schmoo,施穆,zh-CN
+キュウ,施穆,zh-CN
+Tin Man,铁皮人,zh-CN
+ティンマン,铁皮人,zh-CN
+Granfaloon,军团,zh-CN
+レギオン,军团,zh-CN
+Yorick,约里克,zh-CN
+サッカーボーイ,约里克,zh-CN
+Balloon Pod,毒种怪,zh-CN
+バルーン,毒种怪,zh-CN
+Bomb Knight,炸弹骑士,zh-CN
+ボンバーアーマー,炸弹骑士,zh-CN
+Flying Zombie,飞行僵尸,zh-CN
+フライングゾンビ,飞行僵尸,zh-CN
+Jack O'Bones,回旋镖骷髅,zh-CN
+スローマスター,回旋镖骷髅,zh-CN
+Bitterfly,变异飞虫,zh-CN
+ちょんちょん,变异飞虫,zh-CN
+Archer,射手,zh-CN
+アーチャー,射手,zh-CN
+Werewolf,狼人,zh-CN
+ウェアウルフ,狼人,zh-CN
+Orobourous,跳蚤巨龙,zh-CN
+ケツアルクアトル,跳蚤巨龙,zh-CN
+Nova Skeleton,新星骷髅,zh-CN
+スケルトン･ビーマー,新星骷髅,zh-CN
+Black Panther,黑豹,zh-CN
+ブラックパンサー,黑豹,zh-CN
+White Dragon,白龙骨,zh-CN
+ホワイトドラゴン,白龙骨,zh-CN
+Dragon Rider,跳蚤龙骨,zh-CN
+ホワイトドラゴンライダー,跳蚤龙骨,zh-CN
+Minotaur,牛头怪,zh-CN
+ミノタウロス,牛头怪,zh-CN
+Darkwing Bat,暗翼蝙蝠,zh-CN
+おおコウモリ,暗翼蝙蝠,zh-CN
+Sniper of Goth,哥特狙击手,zh-CN
+アマラリックスナイパー,哥特狙击手,zh-CN
+Fire Warg,火座狼,zh-CN
+フェンリル,火座狼,zh-CN
+Spectral Sword,幽光剑Lv36,zh-CN
+ルーラーソードＬｖ３,幽光剑Lv36,zh-CN
+Rock Knight,石头骑士,zh-CN
+ロックアーマー,石头骑士,zh-CN
+Ghost Dancer,骷髅舞者,zh-CN
+スケルトンジャンパー,骷髅舞者,zh-CN
+Warg Rider,座狼骑士,zh-CN
+フェンリルライダー,座狼骑士,zh-CN
+Dark Octopus,暗黑章鱼,zh-CN
+クレイジーオクトパス,暗黑章鱼,zh-CN
+Gorgon,铠甲战兽,zh-CN
+ゴーゴン,铠甲战兽,zh-CN
+Cave Troll,洞穴巨魔,zh-CN
+チュパカパブラ,洞穴巨魔,zh-CN
+Fire Demon,火焰恶魔,zh-CN
+フレイムデーモン,火焰恶魔,zh-CN
+Malachi,玛拉基,zh-CN
+エビル,玛拉基,zh-CN
+Doppleganger40,分身Lv40,zh-CN
+ドッペルゲンガーＬＶ４０,分身Lv40,zh-CN
+The Creature,弗兰肯,zh-CN
+フランケン,弗兰肯,zh-CN
+Blue Venus Weed,蓝晨星草,zh-CN
+ブルー・アルラ・ウネ,蓝晨星草,zh-CN
+Akmodan II,木乃伊,zh-CN
+ミイラ男,木乃伊,zh-CN
+Medusa,美杜莎,zh-CN
+メディウサ,美杜莎,zh-CN
+Imp,小鬼,zh-CN
+インプ,小鬼,zh-CN
+Fake Grant,假格兰特,zh-CN
+グラント・フェイク,假格兰特,zh-CN
+Fake Trevor,假特雷弗,zh-CN
+ラルフ・フェイク,假特雷弗,zh-CN
+Fake Sypha,假西法,zh-CN
+サイファ・フェイク,假西法,zh-CN
+Beelzebub,蝇王,zh-CN
+ベルゼブブ,蝇王,zh-CN
+Salome,年轻的女巫,zh-CN
+サウジーネ,年轻的女巫,zh-CN
+Azaghal,地狱刽子手,zh-CN
+ブーロー,地狱刽子手,zh-CN
+Frozen Half,冰精灵,zh-CN
+フローズンハーフ,冰精灵,zh-CN
+Richter Belmont,里希特·贝尔蒙特,zh-CN
+リヒター・ベルモンド,里希特·贝尔蒙特,zh-CN
+Dodo Bird,渡渡鸟,zh-CN
+ドードー,渡渡鸟,zh-CN
+Galamoth,加拉莫斯,zh-CN
+ガラモス,加拉莫斯,zh-CN
+Guardian,高级铠甲领主,zh-CN
+ファイナル・ガード,高级铠甲领主,zh-CN
+Death,死神,zh-CN
+デス,死神,zh-CN
+Shaft,沙夫特,zh-CN
+シャフト,沙夫特,zh-CN
+
+Karma Coin,卡尔玛金币,zh-CN
+Dim Sum Set,点心套餐,zh-CN
+Meal Ticket,餐券,zh-CN
+Neutron bomb,中子弹,zh-CN
+Red Bean Bun,红豆包,zh-CN
+Bwaka Knife,布瓦卡之刀,zh-CN
+Shuriken,手里剑,zh-CN
+Shiitake,香菇,zh-CN
+Power of Sire,陛下之力,zh-CN
+Toadstool,毒蘑菇,zh-CN
+Bat pentagram,强击五芒星阵,zh-CN
+Buffalo Star,迷惑之星,zh-CN
